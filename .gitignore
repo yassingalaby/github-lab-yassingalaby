@@ -1,0 +1,5 @@
+private-notes.txt
+scratch/
+*.tmp
+.DS_Store
+Thumbs.db
